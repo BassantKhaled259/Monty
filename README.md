@@ -1,6 +1,7 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 
-![227301679-72c72c13-7437-4fa7-a1f7-1653890ccfb6](https://github.com/BassantKhaled259/Monty/assets/136097724/8e5f97fe-8381-4169-b4ca-664a2dcf8bee)
+![227301679-72c72c13-7437-4fa7-a1f7-1653890ccfb6](https://github.com/BassantKhaled259/monty/assets/136097724/057c8c5f-1940-4266-a308-e578906b2996)
+
 
 # General
 
